@@ -1,1 +1,1 @@
-# Task-2-Student-Record-Management-System
+# Task-2-Student-Record-Management-System. Using this we can manage the record of students in the following ways like add student, view student, delete student, update student; each student record has three field student id, name, marks. For each student record we created an student object an stored it in an arraylist and used getters and setters to update and retrive student record based on student id.
